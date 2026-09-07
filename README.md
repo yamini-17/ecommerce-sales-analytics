@@ -181,7 +181,7 @@ E-Commerce-Sales-Analytics/
 Add your Power BI dashboard screenshots here.
 
 ```markdown
-![Executive Summary](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/summary.png)
+![E-Commerce Sales Dashboard](https://raw.githubusercontent.com/yamini-17/ecommerce-sales-analytics/main/summary.png)
 
 ![Sales & Performance](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/sales%20and%20performance.png)
 
