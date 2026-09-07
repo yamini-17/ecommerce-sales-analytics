@@ -181,13 +181,13 @@ E-Commerce-Sales-Analytics/
 Add your Power BI dashboard screenshots here.
 
 ```markdown
-![Executive Summary](Screenshots/Executive-Summary.png)
+![Executive Summary](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/summary.png)
 
-![Sales & Performance](Screenshots/Sales-Performance.png)
+![Sales & Performance](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/sales%20and%20performance.png)
 
-![Customer Analysis](Screenshots/Customer-Analysis.png)
+![Customer Analysis](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/customer%20analysis.png)
 
-![Product & Regional Analysis](Screenshots/Product-Regional-Analysis.png)
+![Product & Regional Analysis](https://github.com/yamini-17/ecommerce-sales-analytics/blob/main/product%20qand%20region.png)
 ```
 
 ---
